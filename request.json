@@ -1,0 +1,10 @@
+
+{"config": {
+      "encoding":"FLAC",  
+     
+	"language_code": "pt-PT"
+  },
+  "audio": {
+      "uri":"gs://test-eletrifana/audio.flac"
+  }
+}
